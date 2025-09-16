@@ -1,4 +1,4 @@
-<h<h1 align="center">Hi, I'm [Suma Bhat] 👋</h1>
+<h<h1 align="center">Suma Bhat</h1>
 
 <p align="center">
   💼 Senior QA Engineer | 🧪 15+ Years in Software Testing | 🤖 AI/ML Enthusiast | 🚀 Driving Quality Through Innovation
