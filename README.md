@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Key Skills & Tools
+### Key Skills & Tools
 
 #### QA & Test Automation
 - Selenium, Cypress, TestNG, JUnit, Cucumber, Postman
@@ -36,14 +36,12 @@
 #### Performance & Security Testing
 - JMeter
 
-#### ✅ Test Management & Collaboration
+#### Test Management & Collaboration
 - Jira, Confluence
 
 ---
 
-### 📚 Currently Exploring
-
-- 🤖 AI-powered automation tools 
-- 🧬 ML-driven defect prediction and analytics
-- 🌐 Cloud-native testing strategies
-- 📊 Advanced QA metrics fo
+### Currently Exploring
+- AI-powered automation tools 
+- ML-driven defect prediction and analytics
+- Cloud-native testing strategies
